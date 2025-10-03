@@ -1,4 +1,4 @@
-package TZh2609;
+package SRO;
 import java.util.Scanner;
 public class SRO1 {
     public static void main(String[] args) {
